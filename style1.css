@@ -1,0 +1,15 @@
+h1{
+    color : indigo;
+    background-color: yellow;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+    color:goldenrod;
+}
+div:hover{
+    background-color: greenyellow;
+    color:tomato;
+}
